@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "text": "Hello",
+      "entities": [
+        {
+          "entity": "intent",
+          "value": "\"Hello\""
+        }
+      ]
+    },
+    {
+      "text": "สวัสดี",
+      "entities": [
+        {
+          "entity": "intent",
+          "value": "\"สวัสดีครับ\""
+        }
+      ]
+    }
+  ]
+}
